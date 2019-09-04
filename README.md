@@ -104,18 +104,19 @@
   - Virtuoso System Design Platform,Star-RCXT, CalibreDRC
 - 対応技術
   - タングステン乗り換え配線チェッカーの開発。ツール名WINET。チップ内の回路の配線分岐をツリー構造とみなして検索を行う大規模データ解析。配線抵抗は実負荷ツールにより抽出。GUIはVirtuoso上での結果表示。2014年はMicron社との統合で本システムをMicron社設計環境へ移植。テキサス及びアイダホのマネージャーと連携。　
-  - C++, マルチCPU(2CPUjob*32), GPGPU(再帰処理のため未使用)
+  - C++, マルチCPU(2CPUjob*32), GPGPU(再帰処理のため未使用), Exceed, Red Hat Enterprise Linux
 
 ### 回路レイアウト(配線)の検証系ソフトウェアの開発(社内専用)
 - 使用技術
   - Virtuoso System Design Platform,Star-RCXT, CalibreDRC
 - 対応技術
   - 半導体配線の劣化要因のエレクトロマイグレーションの電流密度レイアウト検証システムの開発。　
-  - C++, マルチCPU(2CPUjob*32), GPGPU(再帰処理のため未使用)
+  - C++, マルチCPU(2CPUjob*32), GPGPU(再帰処理のため未使用), Exceed, Red Hat Enterprise Linux
 
 ### TCADソフトウェア運用
 - 使用技術
   - Sentaurus(プロセスシミュレータ/ デバイスシミュレータ)
 - 対応技術
   - 新デバイス向け(PRAM)や新機能(量子効果関連)により新たに解析可能となった事例の社内への展開、サポート。
-  - 実験計画法
+  - 実験計画法, Exceed, Red Hat Enterprise Linux
+ 
