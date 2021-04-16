@@ -48,8 +48,7 @@
 ## AI solution
 ### Development of automatic picking robot
 - Used arm
-  - Denso Wave arm
-    ――Although it can be operated with 6-axis tating, there are many singular points depending on the posture, and it was inconvenient to set the target position automatically by AI (image recognition).
+  - Denso Wave arm VP-5243/6242
 - Compatible technology
   - Hand design support. Designed a work contact rotation control mechanism (belt gear) with 1-axis control using a motor. Uses FreeCAD.
   - Support to make Mask-RCNN, an AI program, a resident program. Since tensor-flow is used, it is started for the first time, and when an input image is given, only inference is performed.
@@ -130,8 +129,8 @@
 - Technology used
   - Hpsice, Hsim, SmartSpice, BSIM4, degraded model
 - Compatible technology
-  - Development of a system that can verify the circuit operation after 10 years by transient analysis (SPICE) of transistor hot carrier aging deterioration. The conversion formula based on the actual measurement (DC life) is directly implemented in the Tr model code such as BSIM4.
-  - Co-developed with members of USA, the developer of C ++, Spice vendor, Exceed, Red Hat Enterprise Linux
+  - Development of a system that can verify the circuit operation after 10 years by transient analysis (SPICE) of transistor hot carrier aging degradation. The conversion formula based on the actual measurement (DC life) is directly implemented in the Tr model code such as BSIM4.
+  - Co-developed with members of USA, the developer of C++, Spice Simulator vendor, Exceed, Red Hat Enterprise Linux
 
 ### Development of circuit layout (wiring) verification software (in-house software)
 - Technology used
@@ -173,8 +172,8 @@
 
 ## CAE
 ### Collision safety performance evaluated by CAE
-- Development model
-  - 2006 release Move
+- Development Car(Under/Upper)
+  - 2006 release Move(DAIHATSU)
 - Compatible technology
   - LS-DYNA, Toyota in-house CAD, strength of materials, collision safety body, finite element method, NEC SX ,, Octane2 WS
 
@@ -188,7 +187,7 @@
 <div id = "anchor Z"> </a>
 
 ## Part-time job (day labor etc)
-- Picking in Amazon warehouse (clothes), picking in drugstore warehouse (drinks, detergent), picking in frozen warehouse (winter, kneaded products), ground improvement work (design, construction assistance), Tochu tea (cultivation, using industrial equipment) Drying process), TEPCO call center, caterer (Tokyo warehouse, French)
+- Picking in Amazon warehouse (clothes), picking in drugstore warehouse (drinks, detergent), picking in frozen warehouse (winter, kneaded products), ground improvement work (design, construction assistance), Tochu tea (cultivation, using industrial equipment) Drying process), TEPCO call center, caterer (Tokyo, French)
 
 ## Education
 Shinshu University, Bachelor's degree, Physics, 
