@@ -9,9 +9,9 @@
    |FA        |2018      |[Recruit dispatch3:XXXXX](#anchor5)|
    |3D/AI     |2017〜2018|[Recruit dispatch4:XXXXX](#anchor6)|
    |CMOS Image Sensor Test     |2016〜2017|[Intelligence dispatch:XXXXX](#anchor7)|
-   |アルバイト|2015〜2016|[day labor etc](#anchorZ)|
+   |day labor|2015〜2016|[day labor etc](#anchorZ)|
    |DRAM      |2008〜2014      |[ElpidaMemory](#anchor8)  |
-   |ソフトウェア|2005〜2008|[XXXXX](#anchor9)|
+   |Software|2005〜2008|[XXXXX](#anchor9)|
    |CAE       |2003〜2005|[XXXXX](#anchor10)|
    |CAE       |2002〜2003|[XXXXX](#anchor11)|
 
