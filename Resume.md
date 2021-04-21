@@ -24,6 +24,7 @@
   - Development of fishing history / images data playback tool using web application
   - Building a data server
   - Remote (VPN wide) network design, device IP configuration and inspection
+  - Real-Time image/sound transfer: RTSP
   - Reference: https://www.youtube.com/watch?v=rJ-qyWjQkr0
   - Network study IpV6 optical communication, 5G, AWS
 ### Development of virtual fishing robot system
@@ -38,7 +39,7 @@
 - Compatible technology
   - Improved based on the text annotation tool brat. javascript / python / Git (auto commit)
   - Create an original DataSet
-### Linking text tagging environment with DNN forecasting
+### Linking text tagging environment with DNN inference
 - Compatible technology
   - transformer / pytorch, NFS, Japanese BERT Model (Kyoto Univ.)
   - This technology enables automatic text annotation (sentence analysis)
